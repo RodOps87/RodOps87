@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hola, soy Rodrigo Alejandro Peñaloza</h1>
 <h3 align="center">Ciberseguridad | Infraestructura IT | Redes | Cloud | Virtualización</h3>
 
-![https://github.com/RodOps87](./banner_rodrigo(2).png)
+![https://github.com/RodOps87](./banner_rodrigo (2).png)
 ---
 
 ## 🌐 Sobre mí  
