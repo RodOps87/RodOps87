@@ -25,42 +25,15 @@ Mi objetivo es seguir creciendo para convertirme en un referente en **seguridad 
 ## 💼 Experiencia Profesional
 
 ### 🟧 **Auxiliar de Sistemas y Redes – Tortas Dolly SRL (Actual)**
-- Soporte técnico nivel 1/2: hardware, software, Help Desk.  
-- Gestión y mantenimiento de **CCTV, alarmas, sistemas de seguridad**.  
-- Implementación y administración de **Windows AD, Exchange Server, Linux**.  
-- Configuración en **OPNsense**, telefonía IP (Yealink), Ubiquiti, enlaces de fibra y redes corporativas.  
-- Monitoreo con **PRTG**, gestión de inventarios y compras.  
-- Ejecución de proyectos de infraestructura y cableado para nuevas sucursales.
-
----
-
 ### 🟥 **Ingeniero de Soporte – Nexored SRL**
-- Configuración y soporte de **Fortinet**, políticas, VPNs, seguridad y networking.  
-- Migraciones y administración de infraestructuras: Cisco, Mikrotik, Sophos, Aruba, Ubiquiti.  
-- Diseño de estrategias para mejorar seguridad y rendimiento de redes corporativas.
-
----
-
 ### 🟦 **Técnico de Cableado Estructurado – SACVE SRL**
-- Proyecto Clínica de Las Américas.  
-- Instalación de fibra óptica, fusiones, troncales y ONTs.  
-- Armado de salas de rack, cámaras IP y control de acceso BOSCH.
-
----
-
 ### 🟩 **Auxiliar de Laboratorios – UAGRM (FICCT)**
-- Soporte técnico en salas de cómputo.  
-- CCTV, cableado, troubleshooting de red.  
-- Apoyo al área de Ingeniería en Ciencias de la Computación.
-
 ---
-
 ## 🎓 Educación
 - 🎓 **Diplomado en Seguridad Informática** – UAGRM  
 - 🏢 **Diplomado en Data Center & Microsoft Azure (DCAAS)** – UDI  
 - 🛠️ **Licenciado en Ing. Redes y Telecomunicaciones** – UAGRM  
 - 🧩 **Técnico Medio Operador en Sistemas Empresariales** – UAGRM
-
 ---
 
 ## 📜 Certificaciones
