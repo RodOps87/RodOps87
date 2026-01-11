@@ -3,8 +3,7 @@
 
 ---
 
-## 🌐 Sobre mí
-Soy un profesional comprometido con la evolución constante y el aprendizaje continuo.  
+## 🌐 Sobre mí  
 Me apasiona el mundo de la **ciberseguridad**, la **infraestructura IT**, las operaciones **Red/Blue Team**, y todo lo relacionado con **redes, virtualización, servidores y seguridad perimetral**.
 
 Mi objetivo es seguir creciendo para convertirme en un referente en **seguridad ofensiva, defensiva e infraestructura empresarial**.
@@ -34,11 +33,11 @@ Mi objetivo es seguir creciendo para convertirme en un referente en **seguridad 
 ---
 
 ## 🧠 Áreas de Especialización
-- 🔥 **Ciberseguridad:** Blue Team, Hardening, SIEM, Firewalling, Pentesting básico  
+- 🔥 **Ciberseguridad:** Hardening, SIEM, Pentesting básico  
 - 🏢 **Infraestructura IT:** Windows Server, Linux, virtualización VMware, Proxmox  
-- 🔐 **Seguridad Perimetral:** Fortinet, Cisco, Mikrotik, Sophos, Ubiquiti  
+- 🔐 **Seguridad Perimetral:** Fortinet, Cisco, Mikrotik, Ubiquiti  
 - 🌐 **Networking:** VLANs, routing, switching, wireless enterprise  
-- ☁️ **Cloud & Virtualización:** Azure, Hyper-V, ESXi, OPNsense  
+- ☁️ **Cloud & Virtualización:** Azure, ESXi, OPNsense  
 - 📊 **Monitoreo:** PRTG, Zabbix  
 - 🛠️ **IT Operations:** Help Desk, automatización, documentación, estándares
 
@@ -46,7 +45,7 @@ Mi objetivo es seguir creciendo para convertirme en un referente en **seguridad 
 
 ## 💼 Experiencia Profesional
 
-### 🟩 **Analista de Datacenter - GRUPO SION - KALOMAI HOLDING ** 
+### 🟩 **Analista de Datacenter - GRUPO SION - KALOMAI HOLDING** 
 ### 🟧 **Auxiliar de Sistemas y Redes – Tortas Dolly SRL**
 ### 🟥 **Ingeniero de Soporte – Nexored SRL**
 ### 🟦 **Técnico de Cableado Estructurado – SACVE SRL**
