@@ -8,6 +8,28 @@ Soy un profesional comprometido con la evolución constante y el aprendizaje con
 Me apasiona el mundo de la **ciberseguridad**, la **infraestructura IT**, las operaciones **Red/Blue Team**, y todo lo relacionado con **redes, virtualización, servidores y seguridad perimetral**.
 
 Mi objetivo es seguir creciendo para convertirme en un referente en **seguridad ofensiva, defensiva e infraestructura empresarial**.
+## 🛠️ Tech Stack
+<div align="left">
+
+**Sistemas & Servidores:**  
+![Windows](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
+![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
+
+**Networking & Security:**  
+![Fortinet](https://img.shields.io/badge/Fortinet-EE3124?style=for-the-badge&logo=fortinet&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Mikrotik](https://img.shields.io/badge/MikroTik-293239?style=for-the-badge&logo=mikrotik&logoColor=white)
+![OPNsense](https://img.shields.io/badge/OPNsense-E95420?style=for-the-badge&logoColor=white)
+
+**Cloud & DevOps:**  
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+</div>
+
+---
 
 ---
 
@@ -24,7 +46,8 @@ Mi objetivo es seguir creciendo para convertirme en un referente en **seguridad 
 
 ## 💼 Experiencia Profesional
 
-### 🟧 **Auxiliar de Sistemas y Redes – Tortas Dolly SRL (Actual)**
+### 🟩 **Analista de Datacenter - GRUPO SION - KALOMAI HOLDING ** 
+### 🟧 **Auxiliar de Sistemas y Redes – Tortas Dolly SRL**
 ### 🟥 **Ingeniero de Soporte – Nexored SRL**
 ### 🟦 **Técnico de Cableado Estructurado – SACVE SRL**
 ### 🟩 **Auxiliar de Laboratorios – UAGRM (FICCT)**
@@ -57,33 +80,12 @@ Mi objetivo es seguir creciendo para convertirme en un referente en **seguridad 
 
 ---
 
-## 🛠️ Tech Stack
-<div align="left">
 
-**Sistemas & Servidores:**  
-![Windows](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
-![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
-
-**Networking & Security:**  
-![Fortinet](https://img.shields.io/badge/Fortinet-EE3124?style=for-the-badge&logo=fortinet&logoColor=white)
-![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-![Mikrotik](https://img.shields.io/badge/MikroTik-293239?style=for-the-badge&logo=mikrotik&logoColor=white)
-![OPNsense](https://img.shields.io/badge/OPNsense-E95420?style=for-the-badge&logoColor=white)
-
-**Cloud & DevOps:**  
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-</div>
-
----
 
 ## 📫 Contacto
 📍 Santa Cruz, Bolivia  
 📧 **alejandropenaloza9@gmail.com**  
-📱 **76394464**  
+📱 **+591 76394464**  
 🔗 **LinkedIn:** *(aquí agregas tu enlace)*  
 📝 **Notion / Portfolio:** *(opcional)*  
 
@@ -92,13 +94,6 @@ Mi objetivo es seguir creciendo para convertirme en un referente en **seguridad 
 ## ⭐ Filosofía Profesional
 > “La ciberseguridad y la infraestructura no son solo herramientas,  
 >  son el esqueleto que sostiene a toda empresa moderna.”
-
----
-
-## 🚀 Actualmente Construyendo
-- Laboratorio personal de ciberseguridad (Blue/Red Team)  
-- Automatizaciones para infraestructura  
-- Documentación técnica y proyectos en este repositorio  
 
 ---
 
